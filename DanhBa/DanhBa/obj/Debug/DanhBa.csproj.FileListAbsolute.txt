@@ -1,0 +1,11 @@
+C:\Users\LE HUY\source\repos\DanhBa\DanhBa\bin\Debug\DanhBa.exe.config
+C:\Users\LE HUY\source\repos\DanhBa\DanhBa\bin\Debug\DanhBa.exe
+C:\Users\LE HUY\source\repos\DanhBa\DanhBa\bin\Debug\DanhBa.pdb
+C:\Users\LE HUY\source\repos\DanhBa\DanhBa\obj\Debug\DanhBa.csprojAssemblyReference.cache
+C:\Users\LE HUY\source\repos\DanhBa\DanhBa\obj\Debug\DanhBa.Properties.Resources.resources
+C:\Users\LE HUY\source\repos\DanhBa\DanhBa\obj\Debug\DanhBa.csproj.GenerateResource.cache
+C:\Users\LE HUY\source\repos\DanhBa\DanhBa\obj\Debug\DanhBa.exe
+C:\Users\LE HUY\source\repos\DanhBa\DanhBa\obj\Debug\DanhBa.pdb
+C:\Users\LE HUY\source\repos\DanhBa\DanhBa\obj\Debug\DanhBa.DanhBa.resources
+C:\Users\LE HUY\source\repos\DanhBa\DanhBa\obj\Debug\DanhBa.ThemNhom.resources
+C:\Users\LE HUY\source\repos\DanhBa\DanhBa\obj\Debug\DanhBa.ThemLienLac.resources
